@@ -1,6 +1,6 @@
-# Hola, soy Fernando Guerrero
+# Soy Fernando Guerrero
 
-Fundador de **NexAI**, desde Irapuato, Guanajuato, México. Desarrollo chatbots de WhatsApp, sistemas de automatización y aplicaciones web.
+Desarrollo chatbots de WhatsApp, sistemas de automatización y aplicaciones web.
 
 ## Qué construyo
 
